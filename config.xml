@@ -3,7 +3,7 @@
     
     <name>D2k</name>
     <description>D2k app</description>
-    <author email="jakub@date2k.cz" href="https://www.date2k.cz">D2K author</author>
+    <author email="jakub@date2k.cz" href="http://www.date2k.cz">D2K author</author>
 
     <preference name="phonegap-version" value="cli-6.5.0" />
     <feature name="http://api.phonegap.com/1.0/device" />
